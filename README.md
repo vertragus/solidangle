@@ -8,7 +8,7 @@ the former 2 containing the input csv with the same filename as in the variable 
 the latter will contain the exported computation output with the same filename as in the variable 'file'.
 
 IMPORTANT: bring all geometry close to Origin (0,0,0) to improve quality of data output. 
-Coordinates may be approximates for faraway geometries.
+Coordinates may be approximated for faraway geometries.
 
 the input csv should be, for panels (viz. mesh faces): 'x1,y1,z1,x2,y2,z2,x3,y3,z3,x4,y4,z4', without headers. 
 x,y,z are coordinates of vertexes 1,2,3,(4) respectively. 
