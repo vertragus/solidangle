@@ -1,5 +1,6 @@
 # solidangle
-calculate solid angle of a quadrangular/triangular mesh from a set of given viewpoints.
+calculate solid angle of a quadrangular/triangular mesh from a set of given viewpoints. 
+It uses Oosterom's equation for tetrahedrons https://en.wikipedia.org/wiki/Solid_angle
 
 Requires Python 3 and Anaconda (Numpy, Pandas, Time)
 
